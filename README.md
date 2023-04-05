@@ -13,14 +13,14 @@
 ```mermaid
 classDiagram
     Program <|-- DAEShop
-    DAEShop <|-- Archlogobrushedhoodie
-    DAEShop <|-- Archlogohoodzip_up
-    DAEShop <|-- NesticKickFleece
-    DAEShop <|-- Fadepatterncardigan
-    DAEShop <|-- Splitbrushedhoodie
-    DAEShop <|-- PaintPlayRaised
-    DAEShop <|-- Snugoverfitfleece
-    DAEShop <|-- Blockingwindbreaker
+    DAEShop <|-- The Chains
+    DAEShop <|-- Deeperdark Party Monstar Sleeveles
+    DAEShop <|-- Deeperdark Turtle Straws
+    DAEShop <|-- Life Sucks
+    DAEShop <|-- Cutting Farm Hoodies
+    DAEShop <|-- Deeperdark Shark Finning
+    DAEShop <|-- Deeperdark Kidnapped.A.Mermaid
+    DAEShop <|-- The Chains Sweater
     Program : +Main()
     class DAEShop{
         +openToolStripMenuItem_Click()
@@ -33,37 +33,37 @@ classDiagram
         +getPrice()
         
     }
-    class Archlogohoodzip_up{
+    class Deeperdark Party Monstar Sleeveles{
         +getName()
         +getColor()
         +getPrice()
     }
-    class NesticKickFleece{
+    class Deeperdark Turtle Straws{
         +getName()
         +getColor()
         +getPrice()    
     }
-    class Fadepatterncardigan{
+    class Life Sucks{
         +getName()
         +getColor()
         +getPrice()
     }
-    class Splitbrushedhoodie{
+    class Cutting Farm Hoodies{
         +getName()
         +getColor()
         +getPrice()
     }
-    class PaintPlayRaised{
+    class Deeperdark Shark Finning{
         +getName()
         +getColor()
         +getPrice()
     }
-    class Snugoverfitfleece{
+    class Deeperdark Kidnapped.A.Mermaid{
         +getName()
         +getColor()
         +getPrice()
     }
-    class Blockingwindbreaker{
+    class The Chains Sweater{
         +getName()
         +getColor()
         +getPrice()
