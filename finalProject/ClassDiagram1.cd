@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="finalProject.Form1" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BSAEYhAICaAAARQgACCAyFQSCMy7gAMAwnAsgABAQAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalProject.TheChains" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>The Chains.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalProject.PartyMonstar" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>Deeperdark Party Monstar Sleeveles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalProject.TurtleStraws" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>Deeperdark Turtle Straws.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalProject.LifeSucks" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>Life Sucks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalProject.CuttingFarmHoodies" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>Cutting Farm Hoodies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalProject.SharkFinning" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>Deeperdark Shark Finning.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalProject.DeeperdarkKidnapped" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>Deeperdark Kidnapped.A.Mermaid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalProject.TheChainsSweater" Collapsed="true">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>The Chains Sweater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
