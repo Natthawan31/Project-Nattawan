@@ -13,16 +13,16 @@
 ```mermaid
 classDiagram
     Program <|-- DAEShop
-    HoodieShop <|-- Archlogobrushedhoodie
-    HoodieShop <|-- Archlogohoodzip_up
-    HoodieShop <|-- NesticKickFleece
-    HoodieShop <|-- Fadepatterncardigan
-    HoodieShop <|-- Splitbrushedhoodie
-    HoodieShop <|-- PaintPlayRaised
-    HoodieShop <|-- Snugoverfitfleece
-    HoodieShop <|-- Blockingwindbreaker
+    DAEShop <|-- Archlogobrushedhoodie
+    DAEShop <|-- Archlogohoodzip_up
+    DAEShop <|-- NesticKickFleece
+    DAEShop <|-- Fadepatterncardigan
+    DAEShop <|-- Splitbrushedhoodie
+    DAEShop <|-- PaintPlayRaised
+    DAEShop <|-- Snugoverfitfleece
+    DAEShop <|-- Blockingwindbreaker
     Program : +Main()
-    class HoodieShop{
+    class DAEShop{
         +openToolStripMenuItem_Click()
         +saveToolStripMenuItem_Click()
         +button2_Click()
