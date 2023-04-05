@@ -13,57 +13,57 @@
 ```mermaid
 classDiagram
     Program <|-- DAEShop
-    DAEShop <|-- The Chains
-    DAEShop <|-- Deeperdark Party Monstar Sleeveles
-    DAEShop <|-- Deeperdark Turtle Straws
-    DAEShop <|-- Life Sucks
-    DAEShop <|-- Cutting Farm Hoodies
-    DAEShop <|-- Deeperdark Shark Finning
-    DAEShop <|-- Deeperdark Kidnapped.A.Mermaid
-    DAEShop <|-- The Chains Sweater
+    DAEShop <|-- TheChains
+    DAEShop <|-- DeeperdarkPartyMonstarSleeveles
+    DAEShop <|-- DeeperdarkTurtleStraws
+    DAEShop <|-- LifeSucks
+    DAEShop <|-- CuttingFarmHoodies
+    DAEShop <|-- DeeperdarkSharkFinning
+    DAEShop <|-- DeeperdarkKidnapped.A.Mermaid
+    DAEShop <|-- TheChainsSweater
     Program : +Main()
     class DAEShop{
         +openToolStripMenuItem_Click()
         +saveToolStripMenuItem_Click()
         +button2_Click()
     }
-    class The Chains{
+    class TheChains{
         +getName()
         +getColor()
         +getPrice()
         
     }
-    class Deeperdark Party Monstar Sleeveles{
+    class DeeperdarkPartyMonstarSleeveles{
         +getName()
         +getColor()
         +getPrice()
     }
-    class Deeperdark Turtle Straws{
+    class DeeperdarkTurtleStraws{
         +getName()
         +getColor()
         +getPrice()    
     }
-    class Life Sucks{
+    class LifeSucks{
         +getName()
         +getColor()
         +getPrice()
     }
-    class Cutting Farm Hoodies{
+    class CuttingFarmHoodies{
         +getName()
         +getColor()
         +getPrice()
     }
-    class Deeperdark Shark Finning{
+    class DeeperdarkSharkFinning{
         +getName()
         +getColor()
         +getPrice()
     }
-    class Deeperdark Kidnapped.A.Mermaid{
+    class DeeperdarkKidnapped.A.Mermaid{
         +getName()
         +getColor()
         +getPrice()
     }
-    class The Chains Sweater{
+    class TheChainsSweater{
         +getName()
         +getColor()
         +getPrice()
