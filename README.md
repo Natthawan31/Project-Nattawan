@@ -12,7 +12,7 @@
 
 ```mermaid
 classDiagram
-    Program <|-- HoodieShop
+    Program <|-- DAEShop
     HoodieShop <|-- Archlogobrushedhoodie
     HoodieShop <|-- Archlogohoodzip_up
     HoodieShop <|-- NesticKickFleece
@@ -71,4 +71,4 @@ classDiagram
 ```
 
 ### ชื่อของผู้พัฒนาโปรแกรม
-643450320-4 กฤติยา สินโพธิ์
+653450089-1 ณัฐวรรณ พวงมะลัย
