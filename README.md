@@ -19,7 +19,7 @@ classDiagram
     DAEShop <|-- LifeSucks
     DAEShop <|-- CuttingFarmHoodies
     DAEShop <|-- DeeperdarkSharkFinning
-    DAEShop <|-- DeeperdarkKidnapped.A.Mermaid
+    DAEShop <|-- DeeperdarkKidnappedAMermaid
     DAEShop <|-- TheChainsSweater
     Program : +Main()
     class DAEShop{
@@ -58,7 +58,7 @@ classDiagram
         +getColor()
         +getPrice()
     }
-    class DeeperdarkKidnapped.A.Mermaid{
+    class DeeperdarkKidnappedAMermaid{
         +getName()
         +getColor()
         +getPrice()
