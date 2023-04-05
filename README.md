@@ -27,7 +27,7 @@ classDiagram
         +saveToolStripMenuItem_Click()
         +button2_Click()
     }
-    class Archlogobrushedhoodie{
+    class The Chains{
         +getName()
         +getColor()
         +getPrice()
